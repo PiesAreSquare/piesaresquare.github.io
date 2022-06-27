@@ -6,3 +6,10 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  h1 {
+      color: rgb(212, 206, 167);
+      font-family: "Mrs Sheppards", cursive;
+      font-size:94px;
+      text-shadow: 5px 5px 0 #AF0022, 10px 10px 0 #457bf0;
+  }
